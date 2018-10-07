@@ -1,7 +1,7 @@
 def using_until
     counter = 6
-    puts "Wingardium Leviosa"
     until counter == 10 
+    puts "Wingardium Leviosa"
     counter += 1
     end
 end
